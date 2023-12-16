@@ -210,5 +210,7 @@ Questions 3. Why do we have to create a table diagram?
 = Because it helps us combine information from different parts of our project. When tables are linked, it's easier to find and use the data we need.
 
 Step 5: I want to show the table diagram of all objects and entities here. it_myanmar_database_projects_digram drawio drawio
+![it_myanmar_database_projects_digram drawio drawio](https://github.com/AuntBawHein/Mini-IT-Firm-Database-Design/assets/150255399/bca522c3-a00a-48fa-8c6e-2b4e21c9d049)
 
 Step 6: I’m going to show you SQL It_manmar_company_projects_database.
+[IT_projects_database_company_projects_word.docx](https://github.com/AuntBawHein/Mini-IT-Firm-Database-Design/files/13692025/IT_projects_database_company_projects_word.docx)
