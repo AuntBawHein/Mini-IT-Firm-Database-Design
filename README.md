@@ -6,8 +6,10 @@ The scope of this project is to design A startup IT firm in Myanmar”. The tool
 3. Pencil and white paper to sketch my idea before implementation.
 4. Finally, test run each table to make that ER diagrams are in place.
 Below are the processes and questions that I’m going to create step by step. 
+
 Step 1: I’m going to create and define lots of objects here. These are all my objects employee, canteen, computer, gym, security, bicycle, projector, bus and company. 
 Step 2: I’m going to create lots of tables called employee_table, canteen_table, computer_table, gym_table, security_table, bicycle_table, projector_table, bus_table and company_table. 
+
 These are all tables that I have created here. 
 -- Creating employee_table 
 CREATE TABLE employee_table ( it_employee_id INT PRIMARY KEY), 
